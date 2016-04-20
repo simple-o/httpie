@@ -3,7 +3,7 @@
 
 """
 import sys
-from .core import main
+from httpie.core import main
 
 
 if __name__ == '__main__':
